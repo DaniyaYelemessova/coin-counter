@@ -1,16 +1,7 @@
-## <div align="center">Project name</div>
+## <div align="center">Coin Counter</div>
 
-#### <div align="center">💻 _Learning project for (..................) (date)_ </div>
+#### <div align="center">💻 _Learning project for closures and recursion_ </div>
 
-**_<p align="right">By Daniya Yelemessova_**</p>
-
-<p align="center">
-  <img src="images/js.png" alt="js" width="30"/>
-</p>
-
-<div><img src="" alt="screen of the program" width="50%" display="block" margin-left="auto" margin-right="auto"/></div>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## <div align="center"> 🛠️ _Technologies used:_
 
@@ -25,55 +16,23 @@
 - Testing Framework(Jest)
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+![-----------------------------------------------------]
 ## <div align="center"> 🚥 _Installation and USAGE_
 
-<details>
 To set up and use this project locally for development or testing purposes, follow these steps:
 
 To get started, you'll need to clone this repository to your local machine. Open your terminal or command prompt and use the following command to do so:
-1. git clone 
+1. git clone https://github.com/DaniyaYelemessova/coin-counter.git
 2. Navigate to the Project Directory, using **cd**
 3. Open the project using **code .**
 4. Install all packages with $ npm install.
 
 
-### Setting up the API Key
-
-5. Sign up for an account on [API Provider's Website].
-6. Obtain your API key from the [API Provider's Dashboard].
-7. Create a .env file in the root of your project.
-8. Add your API key to the .env file:
-```
-API_KEY=your-api-key-here
-
-```
-### Now that you have set up your API key, you can run the application:
-9. Start a development server with $ npm run start
-10. Linting JS files in the src folder with $ npm run lint
-11. Run tests with Jest using $ npm run test
-
-</details>
-
-## <div align="center"> ⌨️ _Tests_
-
-```
-describe('Name', () => {
-
-  test('description of the test', () => {
-    expect().toEqual();
-    expect().toEqual();
-    expect().toEqual();
-  });
-});
-
-```
-
-
 ### <div align="center"> 🤔 _Description:_
 
+- The application provides a coin counter function that takes a monetary amount as input and calculates the required change in quarters, dimes, nickels, and pennies.
 
+- The coin counter function utilizes closures, allowing it to be easily extended or modified for various use cases.
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)

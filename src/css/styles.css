@@ -1,0 +1,21 @@
+h1, h4{
+  text-align: center;
+}
+
+form{
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+button{
+  margin-left: 20px;
+}
+
+#output{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: 30px;
+  font-weight: 600;
+}
