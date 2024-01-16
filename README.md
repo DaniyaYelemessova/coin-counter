@@ -26,6 +26,8 @@ To get started, you'll need to clone this repository to your local machine. Open
 3. Open the project using **code .**
 4. Install all packages with $ npm install.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 ### <div align="center"> 🤔 _Description:_
 
@@ -34,13 +36,10 @@ To get started, you'll need to clone this repository to your local machine. Open
 - The coin counter function utilizes closures, allowing it to be easily extended or modified for various use cases.
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 ## <div align="center"> <img src="images/github.png" alt="github icon" width="30px"> _Link to site on Github Pages:_
 
 - [GitHub page link](https://github.com/DaniyaYelemessova)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## <div align="center"> _Known Issues_
 
