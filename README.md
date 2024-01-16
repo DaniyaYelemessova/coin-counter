@@ -1,6 +1,6 @@
 ## <div align="center">Coin Counter</div>
 
-#### <div align="center">💻 _Learning project for closures and recursion_ </div>
+#### <div align="center">💻 _Learning project for Closures and Recursion_ </div>
 
 
 ## <div align="center"> 🛠️ _Technologies used:_
@@ -16,7 +16,6 @@
 - Testing Framework(Jest)
 
 
-![-----------------------------------------------------]
 ## <div align="center"> 🚥 _Installation and USAGE_
 
 To set up and use this project locally for development or testing purposes, follow these steps:
